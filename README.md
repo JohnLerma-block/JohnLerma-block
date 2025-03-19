@@ -62,8 +62,6 @@
 ✅ Improved **database performance & caching**.  
 ✅ Implemented **authentication & role-based access control**.  
 
-### 🔗 **Explore My Open Source Contributions**  
-[![GitHub Activity](https://github.com/johnlerma-blockchain)
 
 ---
 
