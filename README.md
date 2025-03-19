@@ -63,7 +63,7 @@
 ✅ Implemented **authentication & role-based access control**.  
 
 ### 🔗 **Explore My Open Source Contributions**  
-[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/johnlerma-blockchain)
+[![GitHub Activity](https://github.com/johnlerma-blockchain)
 
 ---
 
